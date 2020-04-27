@@ -1,3 +1,4 @@
+./arg -f examples/test_schema.avro -p  -j -o examples/output.json
 # Arg: Avro Random Generator
 
 __NOTE: Building is required to run the program.__
